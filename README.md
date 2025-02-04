@@ -25,6 +25,10 @@ root@:/data# python gen_calib_dataset.py
 　# pulsar2 buildでモデル変換(量子化＆コンパイル)
 root@:/data# pulsar2 build --config matmul_model.json
 ```
+
+![image](https://github.com/user-attachments/assets/84300a39-5381-45e9-950a-8872317ac572)
+
+
  ## How to run M5Stack Module-LLM
 ```
 root@m5stack-LLM:# cd run_ModuleLLM
