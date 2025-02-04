@@ -1,5 +1,8 @@
 # How_to_Pulsar2
 
+* Pulsar2 を雰囲気で使ってみよう
+* https://speakerdeck.com/anoken/pulsar2-wofen-wei-qi-deshi-tutemiyou
+
  ## Enviroment Install
  * Pytorchのインストール  
 https://pytorch.org/get-started/locally/  
