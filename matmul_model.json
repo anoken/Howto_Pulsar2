@@ -22,7 +22,7 @@
       {
         "start_tensor_names": ["DEFAULT"],  // すべてのレイヤーに適用
         "end_tensor_names": ["DEFAULT"],
-        "data_type": "U16"                 // 16ビット符号なし整数
+        "data_type": "U8"                 // 8ビット符号なし整数
       }
     ],
     "calibration_method": "MinMax",        // キャリブレーション方式
